@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+PyPDF2
+python-docx
+pypandoc
+beautifulsoup4
+odfpy
+striprtf
+python-dotenv
+
